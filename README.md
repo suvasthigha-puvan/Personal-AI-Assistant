@@ -1,8 +1,18 @@
-# Personal AI Assistant
+<p align="center">
+  <img src="Icon.png" alt="Personal AI Assistant" width="400">
+</p>
 
-A customizable AI assistant that runs on your data. This tool uses RAG (Retrieval Augmented Generation) to answer questions based on your own documents (PDFs and Text files).
+<h1 align="center">Personal AI Assistant</h1>
 
-https://github.com/suvasthigha-puvan/Personal-AI-Assistant/blob/main/Icon.png
+<p align="center">
+  A customizable AI assistant that runs on your data.
+</p>
+
+<p align="center">
+  Built with Retrieval-Augmented Generation (RAG) to answer questions
+  from your own documents.
+</p>
+
 
 ## Features
 
