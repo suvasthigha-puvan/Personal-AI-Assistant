@@ -2,8 +2,6 @@
 
 A customizable AI assistant that runs on your data. This tool uses RAG (Retrieval Augmented Generation) to answer questions based on your own documents (PDFs and Text files).
 
-![Uploading Personal AI Assistant.png…]()
-
 
 ## Features
 
